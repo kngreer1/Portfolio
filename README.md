@@ -4,11 +4,11 @@ My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I
 
 - <a href="https://github.com/kngreer1/NCTravel">NCTravel</a>
 
-- <a href="https://github.com/kngreer1/Class-Project-Webforms">Webforms Class Project</a>
+- <a href="https://github.com/kngreer1/Class-Project-Webforms">ASP.NET Webforms Class Project</a>
 
-- <a href="https://github.com/kngreer1/Class-Project-MVC">MVC Class Project</a>
+- <a href="https://github.com/kngreer1/Class-Project-MVC">ASP.NET MVC Class Project</a>
 
-- <a href="https://github.com/kngreer1/Class-Project-WebAPI">WebAPI Class Project</a>
+- <a href="https://github.com/kngreer1/Class-Project-WebAPI">WebAPI 2 Class Project</a>
 
 My most recent work is my <a href="https://github.com/kngreer1/NCTravel">NCTravel</a> application. It is an ASP.NET MVC application that you can use to view and search activites in North Carolina.
 
