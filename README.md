@@ -17,6 +17,6 @@ The class projects all have similar functionality. You can view a list of produc
 I am currently taking a class on hybrid mobile development and will be making a project similar to the other class projects. We are using Angular 2, Ionic UI, and Cordova. 
 
 <h2>Contact Information</h2>
-- LinkedIn: <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a></br>
-- Mobile: 336-543-3774</br>
+- LinkedIn: <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a>
+- Mobile: 336-543-3774
 - Email: kylengreer2@gmail.com
