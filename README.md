@@ -2,17 +2,17 @@ My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I
 
 <h2>Projects</h2>
 
+- <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Bootstrap">Angular 2 with Bootstrap</a>
+
 - <a href="https://github.com/kngreer1/NCTravel">NCTravel</a>
-
-- <a href="https://github.com/kngreer1/Class-Project-Webforms">ASP.NET Webforms Class Project</a>
-
-- <a href="https://github.com/kngreer1/Class-Project-MVC">ASP.NET MVC Class Project</a>
 
 - <a href="https://github.com/kngreer1/Class-Project-WebAPI">WebAPI 2 Class Project</a>
 
-My most recent work is my <a href="https://github.com/kngreer1/NCTravel">NCTravel</a> application. It is an ASP.NET MVC application that you can use to view and search activites in North Carolina.
+- <a href="https://github.com/kngreer1/Class-Project-MVC">ASP.NET MVC Class Project</a>
 
-The class projects all have similar functionality. You can view a list of products and see their details. You can select a category from a list to view the products in that category. You can select from a list of states to view the customers in that state. There is home page with links to the rest of the pages. The front-end of the MVC, WebAPI, and NCTravel projects where build with Bootstap.
+- <a href="https://github.com/kngreer1/Class-Project-Webforms">ASP.NET Webforms Class Project</a>
+
+The class projects all have similar functionality. You can view a list of products and see their details. You can select a category from a list to view the products in that category. You can select from a list of states to view the customers in that state. There is home page with links to the rest of the pages.
 
 I am currently taking a class on hybrid mobile development and will be making a project similar to the other class projects. We are using Angular 2, Ionic UI, and Cordova. 
 
