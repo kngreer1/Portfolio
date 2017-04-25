@@ -2,6 +2,8 @@ My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I
 
 <h2>Projects</h2>
 
+- <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Ionic">Angular 2 with Ionic</a>
+
 - <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Bootstrap">Angular 2 with Bootstrap</a>
 
 - <a href="https://github.com/kngreer1/NCTravel">NCTravel</a>
@@ -12,9 +14,9 @@ My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I
 
 - <a href="https://github.com/kngreer1/Class-Project-Webforms">ASP.NET Webforms Class Project</a>
 
-The class projects all have similar functionality. You can view a list of products and see their details. You can select a category from a list to view the products in that category. You can select from a list of states to view the customers in that state. There is home page with links to the rest of the pages.
+The class projects all have similar functionality. You can select from a list of categories and then see the products in that category. You can then select a product and see the details for that product.
 
-I am currently taking a class on hybrid mobile development and will be making a project similar to the other class projects. We are using Angular 2, Ionic UI, and Cordova. 
+If you'd like to see my app on your phone donwload the free <a href="http://view.ionic.io/">Ionic View</a> app. Then go to "Preview Shared App" and enter 58C471CC.
 
 <h2>Contact Information</h2>
 - LinkedIn: <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a>
