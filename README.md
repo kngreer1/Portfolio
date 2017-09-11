@@ -1,10 +1,25 @@
 My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I am a fourth year Computer Information Systems undergraduate at Western Carolina University. Below you can see a sample of my work.
 
-<h2>Projects</h2>
+<h1>Projects</h1>
 
-- <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Ionic">Angular 2 with Ionic</a>
+<h3>Ionic and Angular</h3>
 
 - <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Bootstrap">Angular 2 with Bootstrap</a>
+
+- <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Ionic">Angular 2 with Ionic - <a style=color:#F5F5F5>58C471CC</a></a>
+
+- <a href="https://github.com/kngreer1/BillSplit">BillSplit - <a style=color:#F8F8F8>AB5032EB</a></a>
+
+- <a href="https://github.com/kngreer1/Magic-8-Ball">Magic 8 Ball - <a style=color:#F2F2F2>096BF1F3</a></a>
+
+- <a href="https://github.com/kngreer1/SimpleCalculator">Simple Calculator - <a style=color:#F2F2F2>95362898</a></a>
+
+- <a href="https://github.com/kngreer1/DiceRoll">Dice Roll - <a style=color:#F2F2F2>C664B309</a></a>
+
+- <a href="https://github.com/kngreer1/Password-Generator">Password Generator - <a style=color:#F2F2F2>6EF5AC3B</a></a>
+
+
+<h3>ASP.Net</h3>
 
 - <a href="https://github.com/kngreer1/NCTravel">NCTravel</a>
 
@@ -16,9 +31,12 @@ My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I
 
 The class projects all have similar functionality. You can select from a list of categories and then see the products in that category. You can then select a product and see the details for that product.
 
-If you'd like to see my app on your phone download the free <a href="http://view.ionic.io/">Ionic View</a> app. Then go to "Preview Shared App" and enter 58C471CC.
+If you'd like to see my app on your phone download the free <a href="http://view.ionic.io/">Ionic View</a> app. Then go to "Preview Shared App" and enter the code next to the Ionic apps in the list above.
 
 <h2>Contact Information</h2>
+
 - LinkedIn: <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a>
+
 - Mobile: 336-543-3774
+
 - Email: kylengreer2@gmail.com
