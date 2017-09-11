@@ -6,17 +6,17 @@ My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I
 
 - <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Bootstrap">Angular 2 with Bootstrap</a>
 
-- <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Ionic">Angular 2 with Ionic </a> - <a style=color:#F2F2F2>58C471CC</a>
+- <a href="https://github.com/kngreer1/Class-Project-Angular2-with-Ionic">Angular 2 with Ionic </a> - 58C471CC
 
-- <a href="https://github.com/kngreer1/BillSplit">BillSplit </a> - <a style=color:#F2F2F2>AB5032EB</a>
+- <a href="https://github.com/kngreer1/BillSplit">BillSplit </a> - AB5032EB
 
-- <a href="https://github.com/kngreer1/Magic-8-Ball">Magic 8 Ball </a> - <a style=color:#F2F2F2>096BF1F3</a>
+- <a href="https://github.com/kngreer1/Magic-8-Ball">Magic 8 Ball </a> - 096BF1F3
 
-- <a href="https://github.com/kngreer1/SimpleCalculator">Simple Calculator </a> - <a style=color:#F2F2F2>95362898</a>
+- <a href="https://github.com/kngreer1/SimpleCalculator">Simple Calculator </a> - 95362898
 
-- <a href="https://github.com/kngreer1/DiceRoll">Dice Roll </a> - <a style=color:#F2F2F2>C664B309</a>
+- <a href="https://github.com/kngreer1/DiceRoll">Dice Roll </a> - C664B309
 
-- <a href="https://github.com/kngreer1/Password-Generator">Password Generator </a> - <a style=color:#F2F2F2>6EF5AC3B</a>
+- <a href="https://github.com/kngreer1/Password-Generator">Password Generator </a> - 6EF5AC3B 
 
 
 <h3>ASP.Net</h3>
