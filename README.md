@@ -31,7 +31,7 @@ My name is <a href="https://www.linkedin.com/in/kyle-greer">Kyle Greer</a> and I
 
 The class projects all have similar functionality. You can select from a list of categories and then see the products in that category. You can then select a product and see the details for that product.
 
-If you'd like to see my app on your phone download the free <a href="http://view.ionic.io/">Ionic View</a> app. Then go to "Preview Shared App" and enter the code next to the Ionic apps in the list above.
+If you'd like to see my app on your phone download the free Legacy <a href="http://view.ionic.io/">Ionic View</a> app. Then go to "Preview Shared App" and enter the code next to the Ionic apps in the list above.
 
 <h2>Contact Information</h2>
 
